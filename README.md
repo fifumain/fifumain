@@ -4,7 +4,8 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Python / Django / PostgreSQL / HTML / CSS / 
+ Main skills: Python / Django / PostgreSQL / HTML / CSS 
+ Additional: SQLite3, GIT, MSOffice, BOOTSTRAP etc. 
 
 
 - 🌱 I’m currently learning Docker/HTML+CSS
