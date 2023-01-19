@@ -4,8 +4,9 @@
 
 There is no limit to perfection. This profile will be a ladder on my path to excellence in programming, and you are lucky to watch this road. Discipline and motivation are the main guides on this thorny path
 
- Main skills: Python / Django / PostgreSQL / HTML / CSS 
- Additional: SQLite3, GIT, MSOffice, BOOTSTRAP etc. 
+ Main skills: Python / Django / PostgreSQL / HTML / CSS. <br>
+ 
+ Additional: PostgreSQL / SQLite3 /  GIT / Celery / Redis / Linux / MSOffice / BOOTSTRAP etc. 
 
 
 - 🌱 I’m currently learning Docker/HTML+CSS
