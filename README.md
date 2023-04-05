@@ -4,7 +4,7 @@
 
 There is no limit to perfection. This profile will be a ladder on my path to excellence in programming, and you are lucky to watch this road. Discipline and motivation are the main guides on this thorny path
 
- Main skills: Python / Django / HTML / CSS. <br>
+ Main skills: Python / JS / Django / VUE.JS /HTML / CSS. <br>
  
  Additional: PostgreSQL / SQLite3 /  GIT / Celery / Redis / Linux / MSOffice / BOOTSTRAP etc. 
 
