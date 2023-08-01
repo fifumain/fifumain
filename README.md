@@ -9,5 +9,5 @@ There is no limit to perfection. This profile will be a ladder on my path to exc
  Additional: PostgreSQL / SQLite3 /  GIT / Celery / Redis / Linux / MSOffice / BOOTSTRAP etc. 
 
 
-- 📫 How to reach me: https://linktr.ee/fengwuu 
+- 📫 How to reach me: filipp.pustovoitenko.work@gmail.com
 
