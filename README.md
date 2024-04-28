@@ -1,13 +1,19 @@
-### Hi there 👋, my name is Filip
-#### Python-Web developer from Ukraine
-![Python-Web developer from Ukraine](https://images.wallpaperscraft.com/image/single/snake_python_predator_reptile_106830_1920x1080.jpg)
 
-There is no limit to perfection. This profile will be a ladder on my path to excellence in programming, and you are lucky to watch this road. Discipline and motivation are the main guides on this thorny path
-
- Main skills: Python / JS / Django / VUE.JS /HTML / CSS. <br>
- 
- Additional: PostgreSQL / SQLite3 /  GIT / Celery / Redis / Linux / MSOffice / BOOTSTRAP etc. 
+# Hi, I'm Filip! 👋
 
 
-- 📫 How to reach me: filipp.pustovoitenko.work@gmail.com
+## 🚀 About Me
+I'm a Python Beckend developer from Ukraine. This is my main focus, but I also have a good knowledge of blockchain tenchology, interactions, and creating smart contracts. I have basic frontend writing skills with VueJs, and minimal web page layout skills.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-pustovoitenko-a0297923a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fifumain/)
+
+
+## 🛠 Skills
+- Programming Languages: Python, JavaScript
+- Backend: Django/Django Rest Framework + related tech.
+- Frontend: Basics of Vue.JS, HTML+CSS+JS, Bootstrap
+- Also: Docker, SQL, Bash, Solidity, Blockchain development.
 
