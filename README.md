@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Python Beckend developer from Ukraine. This is my main focus, but I also have a good knowledge of blockchain tenchology, interactions, and creating smart contracts. I have basic frontend writing skills with VueJs, and minimal web page layout skills.
+I'm a Python Backend developer from Ukraine. This is my main focus, but I also have a good knowledge of blockchain technology, interactions, and creating smart contracts. I have basic frontend writing skills with Vue.Js and minimal web page layout skills.
 
 
 ## 🔗 Links
