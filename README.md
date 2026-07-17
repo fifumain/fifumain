@@ -1,23 +1,23 @@
-
-# Hi, I'm Filip! 👋
-
+# Hi, I'm Filip 👋
 
 ## 🚀 About Me
-I'm a Python Backend developer from Ukraine. 
+Backend Developer with 4 years of commercial experience building production systems in Python, primarily with Django and FastAPI. Core focus on scalable REST APIs and backend architecture — owning features end-to-end, from data modeling to deployment.
+
+Actively expanding into AI integrations — connecting LLM APIs and building embedding-based vector search into backend systems.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-pustovoitenko-a0297923a/)
 
+## 🛠 Stack
 
-## 🛠 Skills
+**Languages & Frameworks:** Python, Django, Django REST Framework, FastAPI
 
+**Databases & Storage:** PostgreSQL, MongoDB, Redis, pgvector
 
-- Python, JavaScript
+**AI Integrations:** LLM API integration, embedding-based vector search *(active growth focus)*
 
-- Django, DRF, Celery +Beat, Nginx, Redis, PyTest, Elasticsearch
+**Async & Infrastructure:** Celery, Docker, Nginx, Linux, REST API design
 
-- Base Vue.JS, HTML+CSS+JS
+**Tools:** Git, PyTest
 
-- SQL, PostgreSQL, Django ORM, Redis (brocker + cache)
-
-- Deploy, API integration, Stripe, Bash-scripts, Docker-compose
+## 📌 Pinned Projects
